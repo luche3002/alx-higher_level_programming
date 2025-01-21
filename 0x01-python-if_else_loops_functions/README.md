@@ -43,19 +43,19 @@ In this project we explore:
 ## Requirements
 * Python scripts:
 
- * Allowed editors: vi, vim and emacs
- * All files interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
- * All files should end with a new line
- * The first line of all files should be exactly `#!/usr/bin/python3`
- * Code should use the pycodestyle (version 2.8.*)
- * All files must be executable
+  * Allowed editors: vi, vim and emacs
+  * All files interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
+  * All files should end with a new line
+  * The first line of all files should be exactly `#!/usr/bin/python3`
+  * Code should use the pycodestyle (version 2.8.*)
+  * All files must be executable
 
 * C scripts
 
- * Allowed editors: vi, vim, emacs
- * All files compiled on Ubuntu 20.04 LTS using gcc
- * Code should use the Betty style
- * No more than 5 functions per file
+  * Allowed editors: vi, vim, emacs
+  * All files compiled on Ubuntu 20.04 LTS using gcc
+  * Code should use the Betty style
+  * No more than 5 functions per file
 
 ## Author
 [KWAME LUCHEVELI]
